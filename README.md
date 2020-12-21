@@ -19,3 +19,12 @@ Goroutines are functions or methods that run concurrently with other functions o
 #Defer
 Defer statement is used to execute a function call just before the surrounding function where the defer statement is present returns.
 
+#variadic
+ variadic function is a function that accepts a variable number of arguments. If the last parameter of a function definition is prefixed by ellipsis ..., then the function can accept any number of arguments for that parameter.
+
+ #errorhandling
+ Errors indicate an abnormal condition occurring in the program. Let's say we are trying to open a file and the file does not exist in the file system. This is an abnormal condition and it's represented as an error.
+  Errors in Go are plain old values. Errors are represented using the built-in error type.
+
+  #primenumber
+  code here is to check whether the number is prime or not 
