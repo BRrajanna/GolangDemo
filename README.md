@@ -1,5 +1,5 @@
-###array 
-practice array concept  golang 
+#array 
+   practice array concept  golang 
 
 #hello_world
 practicing the basic 
