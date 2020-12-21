@@ -6,3 +6,10 @@ practicing the basic
 
 #forloop
 experiment on forloop
+
+#maps
+
+#structure 
+
+#goroutines
+
