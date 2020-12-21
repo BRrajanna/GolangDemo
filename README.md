@@ -1,5 +1,6 @@
 #array 
 An array is a collection of elements that belong to the same type. 
+
 #hello_world
 practicing the basic 
 
