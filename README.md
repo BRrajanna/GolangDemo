@@ -1,6 +1,5 @@
 #Array 
-An array is a collection of elements that belong to the same type. For example the collection of integers 5, 8, 9, 79, 76 form an array. Mixing values of different types, for example an array that contains both strings and integers is not allowed in Go.
-
+An array is a collection of elements that belong to the same type. 
 #hello_world
 practicing the basic 
 
