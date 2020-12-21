@@ -1,9 +1,9 @@
-#Array 
+#array 
 An array is a collection of elements that belong to the same type. 
 #hello_world
 practicing the basic 
 
-#Forloop
+#forloop
 for is the only loop available in Go. Go doesn't have while or do while loops which are present in other languages like C.
 
 #maps
