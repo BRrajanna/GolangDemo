@@ -28,3 +28,6 @@ Defer statement is used to execute a function call just before the surrounding f
 
   #primenumber
   code here is to check whether the number is prime or not 
+
+  #reverseofstring
+  here the function reverse the string 
